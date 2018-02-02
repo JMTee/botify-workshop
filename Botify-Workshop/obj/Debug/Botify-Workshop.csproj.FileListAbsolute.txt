@@ -1,0 +1,41 @@
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Bot Application.dll.config
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Bot Application.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Bot Application.pdb
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Autofac.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Chronic.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Builder.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Connector.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Newtonsoft.Json.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Net.Http.Formatting.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Web.Http.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Web.Http.WebHost.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Autofac.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Builder.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.Bot.Connector.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\Newtonsoft.Json.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Net.Http.Formatting.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Web.Http.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\System.Web.Http.WebHost.xml
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\obj\Debug\Botify-Workshop.csprojResolveAssemblyReference.cache
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\obj\Debug\Botify-Workshop.csproj.CoreCompileInputs.cache
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\obj\Debug\Bot Application.dll
+c:\users\jan.marvin.o.tee\source\repos\Botify-Workshop\Botify-Workshop\obj\Debug\Bot Application.pdb
