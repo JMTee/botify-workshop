@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botify-Workshop", "Botify-W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuisBot", "intelligence-LUIS\LuisBot.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "botify-workshop-done", "botify-workshop-done\botify-workshop-done.csproj", "{3F99709C-D4C9-4AC5-BA10-C5CD3E1EE778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F99709C-D4C9-4AC5-BA10-C5CD3E1EE778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F99709C-D4C9-4AC5-BA10-C5CD3E1EE778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F99709C-D4C9-4AC5-BA10-C5CD3E1EE778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F99709C-D4C9-4AC5-BA10-C5CD3E1EE778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

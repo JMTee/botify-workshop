@@ -106,6 +106,9 @@
   <ItemGroup>
     <Content Include="default.htm" />
     <Content Include="Global.asax" />
+    <Content Include="Resources\combo.png" />
+    <Content Include="Resources\pepperoni.png" />
+    <Content Include="Resources\spagetti.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
