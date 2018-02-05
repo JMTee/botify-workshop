@@ -9,9 +9,9 @@ using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
 using Microsoft.Bot.Connector;
 
-namespace botify_luis.Dialogs
+namespace botify_luis_done.Dialogs
 {
-    [LuisModel("<model-id>", "<sub key>")]
+    [LuisModel("d8b01a2d-8b02-4bbe-a581-f4f14a4ff802", "68aadd16c70c430197aae5197c9cbdac")]
     [Serializable]
     public class RootDialog : LuisDialog<object>
     {
@@ -36,6 +36,6 @@ namespace botify_luis.Dialogs
         }
 
 
-      
+
     }
 }

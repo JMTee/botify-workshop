@@ -7,11 +7,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8DAEA61F-3D1F-4398-A5AB-2E59FED0B1EC}</ProjectGuid>
+    <ProjectGuid>{535A7D3B-185D-4B63-9D73-B6FACFFCDAE8}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>botify_luis</RootNamespace>
+    <RootNamespace>botify_luis_done</RootNamespace>
     <AssemblyName>Bot Application</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
@@ -106,9 +106,6 @@
   <ItemGroup>
     <Content Include="default.htm" />
     <Content Include="Global.asax" />
-    <Content Include="Resources\combo.png" />
-    <Content Include="Resources\pepperoni.png" />
-    <Content Include="Resources\spagetti.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
