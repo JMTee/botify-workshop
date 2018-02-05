@@ -1,0 +1,41 @@
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Bot Application.dll.config
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Bot Application.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Bot Application.pdb
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Autofac.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Chronic.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Builder.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Connector.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Newtonsoft.Json.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Net.Http.Formatting.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Web.Http.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Web.Http.WebHost.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Autofac.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Builder.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.Bot.Connector.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\Newtonsoft.Json.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Net.Http.Formatting.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Web.Http.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\System.Web.Http.WebHost.xml
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\obj\Debug\botify-luis.csprojResolveAssemblyReference.cache
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\obj\Debug\botify-luis.csproj.CoreCompileInputs.cache
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\obj\Debug\Bot Application.dll
+C:\Users\jan.marvin.o.tee\source\repos\botify-workshop\botify-luis\obj\Debug\Bot Application.pdb
